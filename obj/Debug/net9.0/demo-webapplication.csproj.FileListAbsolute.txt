@@ -33,3 +33,4 @@ C:\Users\MaxEk\source\repos\demo-webapplication\obj\Debug\net9.0\ref\demo-webapp
 C:\Users\MaxEk\source\repos\demo-webapplication\obj\Debug\net9.0\compressed\u9uh3mk05x-3x5n4fgmcq.gz
 C:\Users\MaxEk\source\repos\demo-webapplication\obj\Debug\net9.0\compressed\jia6xsto4t-rdiria972o.gz
 C:\Users\MaxEk\source\repos\demo-webapplication\obj\Debug\net9.0\compressed\jt13bcgfp0-5vio3rigod.gz
+C:\Users\MaxEk\source\repos\demo-webapplication\obj\Debug\net9.0\demo-webapplication.sourcelink.json

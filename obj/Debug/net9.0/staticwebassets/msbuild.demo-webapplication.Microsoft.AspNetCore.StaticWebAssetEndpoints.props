@@ -28,13 +28,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\wordgame.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5vio3rigod"},{"Name":"integrity","Value":"sha256-fzsz5h02QHuT4y7P51XpYs7H8pT2NKZiLoT4hDskIsY="},{"Name":"label","Value":"_content/demo-webapplication/wordgame.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11151"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022fzsz5h02QHuT4y7P51XpYs7H8pT2NKZiLoT4hDskIsY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 13 Jan 2025 09:32:10 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11151"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022fzsz5h02QHuT4y7P51XpYs7H8pT2NKZiLoT4hDskIsY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 13 Jan 2025 09:54:19 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/demo-webapplication/wordgame.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\wordgame.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fzsz5h02QHuT4y7P51XpYs7H8pT2NKZiLoT4hDskIsY="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"11151"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022fzsz5h02QHuT4y7P51XpYs7H8pT2NKZiLoT4hDskIsY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 13 Jan 2025 09:32:10 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"11151"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022fzsz5h02QHuT4y7P51XpYs7H8pT2NKZiLoT4hDskIsY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 13 Jan 2025 09:54:19 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>
