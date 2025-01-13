@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yc0gMcpl36o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\demo-webapplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MaxEk\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\MaxEk\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\MaxEk\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

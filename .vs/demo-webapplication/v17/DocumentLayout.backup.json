@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F08088C7-99E3-4390-A935-824C390E9606}|demo-webapplication.csproj|c:\\users\\maxek\\source\\repos\\demo-webapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08088C7-99E3-4390-A935-824C390E9606}|demo-webapplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08088C7-99E3-4390-A935-824C390E9606}|demo-webapplication.csproj|c:\\users\\maxek\\source\\repos\\demo-webapplication\\wwwroot\\wordgame.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F08088C7-99E3-4390-A935-824C390E9606}|demo-webapplication.csproj|solutionrelative:wwwroot\\wordgame.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08088C7-99E3-4390-A935-824C390E9606}|demo-webapplication.csproj|c:\\users\\maxek\\source\\repos\\demo-webapplication\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F08088C7-99E3-4390-A935-824C390E9606}|demo-webapplication.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08088C7-99E3-4390-A935-824C390E9606}|demo-webapplication.csproj|c:\\users\\maxek\\source\\repos\\demo-webapplication\\queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08088C7-99E3-4390-A935-824C390E9606}|demo-webapplication.csproj|solutionrelative:queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:02:00.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-10T09:07:45.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Queries.cs",
+              "DocumentMoniker": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\Queries.cs",
+              "RelativeDocumentMoniker": "Queries.cs",
+              "ToolTip": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\Queries.cs",
+              "RelativeToolTip": "Queries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:05:49.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "wordgame.js",
+              "DocumentMoniker": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\wwwroot\\wordgame.js",
+              "RelativeDocumentMoniker": "wwwroot\\wordgame.js",
+              "ToolTip": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\wwwroot\\wordgame.js",
+              "RelativeToolTip": "wwwroot\\wordgame.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-10T09:04:07.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Wordgame</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <!-- Jag måste lägga en script-tag i min head och peka på min JS fil för att kunna köra JS-koden tillsammans med min html. 'defer' betyder att mitt skript körs EFTER att html-DOM har laddat färdigt-->
+    <script src="wordgame.js" defer></script>
+</head>
+
+<body>
+    <div>
+        <h1>Welcome to the Wordgame App!</h1>
+    </div>
+    <!-- Här skapar jag ett form som håller i min etikett(text) och mitt inmatningsfält för namn-->
+    <!-- Här ligger input för att lägga till sitt namn i listan över spelare i databasen -->
+    <!-- Här ligger knappen för att spara namnet i databasen -->
+    <!-- "id" är för att ha ett rätt så tydligt namn för att veta vad knappen gör när vi går vidare till JS-koden som tar hand om vad som ska hända när vi klickar på 'save-player'-knappen när vi har fyllt i vårat namn i 'playername' fältet. -->
+    <!-- "Gå vidare till JS koden för att följa 'datan/koden' och titta på funktion "addPlayer" på rad 8 -->
+    <form id="add-player">
+        <label id="player-label" for="playername">Write your player name:</label>
+        <input id="playername" class="nameinput" type="text" name="name" placeholder="Enter your name.." />
+        <button id="save-player">Save Player Name</button>
+    </form>
+
+    <!-- Här ligger bara en enkel <p>tagg för att jag vill kunna uppdatera text på sidan-->
+    <p id="message"></p>
+    <!-- Här skapar jag ett nytt form där jag vill att man ska skriva bokstäver som skapar ett ord.-->
+    <!-- Här ligger sedan ett div i mitt form, och jag tänker använda detta div till att lägga till input fält dynamiskt beroende på hur många bokstäver mitt ord innehåller-->
+    <form id="guessword">
+        <div id="input-container"></div> <!-- Inputs kommer att skapas här -->
+    </form>
+    <!-- Här ligger en knapp för att hämta ett ord från API:et (Gå in i JS för att läsa och följa koden i funktionen getWords() och se anropet som görs när man klickar på knappen) -->
+    <button id="get-word">Fetch a Word</button>
+</body>
+
+</html>

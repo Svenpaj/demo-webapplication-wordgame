@@ -1,0 +1,40 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/demo-webapplication/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MWAHBPRgbyCXx3fdTk9pfmMwcqVU7bjzst/700D0\u002BuM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2440"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022MWAHBPRgbyCXx3fdTk9pfmMwcqVU7bjzst/700D0\u002BuM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 13 Jan 2025 08:22:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/demo-webapplication/index.rdiria972o.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rdiria972o"},{"Name":"integrity","Value":"sha256-MWAHBPRgbyCXx3fdTk9pfmMwcqVU7bjzst/700D0\u002BuM="},{"Name":"label","Value":"_content/demo-webapplication/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2440"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022MWAHBPRgbyCXx3fdTk9pfmMwcqVU7bjzst/700D0\u002BuM=\u0022"},{"Name":"Last-Modified","Value":"Mon, 13 Jan 2025 08:22:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/demo-webapplication/styles.3x5n4fgmcq.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3x5n4fgmcq"},{"Name":"integrity","Value":"sha256-SeI6KyWUZnyBoQy8bfLAKRBT\u002BLEhBqeXakPWoVhcQJg="},{"Name":"label","Value":"_content/demo-webapplication/styles.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2415"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022SeI6KyWUZnyBoQy8bfLAKRBT\u002BLEhBqeXakPWoVhcQJg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Jan 2025 14:16:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/demo-webapplication/styles.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SeI6KyWUZnyBoQy8bfLAKRBT\u002BLEhBqeXakPWoVhcQJg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2415"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022SeI6KyWUZnyBoQy8bfLAKRBT\u002BLEhBqeXakPWoVhcQJg=\u0022"},{"Name":"Last-Modified","Value":"Fri, 10 Jan 2025 14:16:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/demo-webapplication/wordgame.5vio3rigod.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\wordgame.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5vio3rigod"},{"Name":"integrity","Value":"sha256-fzsz5h02QHuT4y7P51XpYs7H8pT2NKZiLoT4hDskIsY="},{"Name":"label","Value":"_content/demo-webapplication/wordgame.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11151"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022fzsz5h02QHuT4y7P51XpYs7H8pT2NKZiLoT4hDskIsY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 13 Jan 2025 09:32:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/demo-webapplication/wordgame.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\wordgame.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fzsz5h02QHuT4y7P51XpYs7H8pT2NKZiLoT4hDskIsY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"11151"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022fzsz5h02QHuT4y7P51XpYs7H8pT2NKZiLoT4hDskIsY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 13 Jan 2025 09:32:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

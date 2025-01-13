@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "dBwlcw4sk6Q/AO4LSlT5LtLoz+CUgAM74ORynf72/XE=",
+  "Source": "demo-webapplication",
+  "BasePath": "_content/demo-webapplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "demo-webapplication\\wwwroot",
+      "Source": "demo-webapplication",
+      "ContentRoot": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\wwwroot\\",
+      "BasePath": "_content/demo-webapplication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\obj\\Debug\\net9.0\\compressed\\jia6xsto4t-rdiria972o.gz",
+      "SourceId": "demo-webapplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/demo-webapplication",
+      "RelativePath": "index#[.{fingerprint=rdiria972o}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "a75bo6x2n6",
+      "Integrity": "6pDUsqGa/W+bhYaDMR/N+NwGml172ORS860hk5sIG+E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\obj\\Debug\\net9.0\\compressed\\jt13bcgfp0-5vio3rigod.gz",
+      "SourceId": "demo-webapplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/demo-webapplication",
+      "RelativePath": "wordgame#[.{fingerprint=5vio3rigod}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\wwwroot\\wordgame.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "du7y1ra2f3",
+      "Integrity": "y5bAgfAnDVn949RTJT+9yPD0ENhp1pd1OtdTHTyCy58=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\wwwroot\\wordgame.js"
+    },
+    {
+      "Identity": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\obj\\Debug\\net9.0\\compressed\\u9uh3mk05x-3x5n4fgmcq.gz",
+      "SourceId": "demo-webapplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/demo-webapplication",
+      "RelativePath": "styles#[.{fingerprint=3x5n4fgmcq}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\wwwroot\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "8r3b0cm4v0",
+      "Integrity": "PAglVSJ0jznyIx5yo6c2/raUBguYPq1/TWeqQ4RX830=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\wwwroot\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\wwwroot\\index.html",
+      "SourceId": "demo-webapplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\wwwroot\\",
+      "BasePath": "_content/demo-webapplication",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rdiria972o",
+      "Integrity": "MWAHBPRgbyCXx3fdTk9pfmMwcqVU7bjzst/700D0+uM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\wwwroot\\styles.css",
+      "SourceId": "demo-webapplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\wwwroot\\",
+      "BasePath": "_content/demo-webapplication",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3x5n4fgmcq",
+      "Integrity": "SeI6KyWUZnyBoQy8bfLAKRBT+LEhBqeXakPWoVhcQJg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\wwwroot\\wordgame.js",
+      "SourceId": "demo-webapplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\wwwroot\\",
+      "BasePath": "_content/demo-webapplication",
+      "RelativePath": "wordgame#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5vio3rigod",
+      "Integrity": "fzsz5h02QHuT4y7P51XpYs7H8pT2NKZiLoT4hDskIsY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\wordgame.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\obj\\Debug\\net9.0\\compressed\\jia6xsto4t-rdiria972o.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000852514919"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1172"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6pDUsqGa/W+bhYaDMR/N+NwGml172ORS860hk5sIG+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 08:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MWAHBPRgbyCXx3fdTk9pfmMwcqVU7bjzst/700D0+uM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MWAHBPRgbyCXx3fdTk9pfmMwcqVU7bjzst/700D0+uM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MWAHBPRgbyCXx3fdTk9pfmMwcqVU7bjzst/700D0+uM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 08:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MWAHBPRgbyCXx3fdTk9pfmMwcqVU7bjzst/700D0+uM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\obj\\Debug\\net9.0\\compressed\\jia6xsto4t-rdiria972o.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6pDUsqGa/W+bhYaDMR/N+NwGml172ORS860hk5sIG+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 08:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6pDUsqGa/W+bhYaDMR/N+NwGml172ORS860hk5sIG+E="
+        }
+      ]
+    },
+    {
+      "Route": "index.rdiria972o.html",
+      "AssetFile": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\obj\\Debug\\net9.0\\compressed\\jia6xsto4t-rdiria972o.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000852514919"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1172"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6pDUsqGa/W+bhYaDMR/N+NwGml172ORS860hk5sIG+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 08:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MWAHBPRgbyCXx3fdTk9pfmMwcqVU7bjzst/700D0+uM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rdiria972o"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MWAHBPRgbyCXx3fdTk9pfmMwcqVU7bjzst/700D0+uM="
+        }
+      ]
+    },
+    {
+      "Route": "index.rdiria972o.html",
+      "AssetFile": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MWAHBPRgbyCXx3fdTk9pfmMwcqVU7bjzst/700D0+uM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 08:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rdiria972o"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MWAHBPRgbyCXx3fdTk9pfmMwcqVU7bjzst/700D0+uM="
+        }
+      ]
+    },
+    {
+      "Route": "index.rdiria972o.html.gz",
+      "AssetFile": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\obj\\Debug\\net9.0\\compressed\\jia6xsto4t-rdiria972o.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1172"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6pDUsqGa/W+bhYaDMR/N+NwGml172ORS860hk5sIG+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 08:22:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rdiria972o"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6pDUsqGa/W+bhYaDMR/N+NwGml172ORS860hk5sIG+E="
+        }
+      ]
+    },
+    {
+      "Route": "styles.3x5n4fgmcq.css",
+      "AssetFile": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\obj\\Debug\\net9.0\\compressed\\u9uh3mk05x-3x5n4fgmcq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001302083333"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "767"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PAglVSJ0jznyIx5yo6c2/raUBguYPq1/TWeqQ4RX830=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 14:16:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SeI6KyWUZnyBoQy8bfLAKRBT+LEhBqeXakPWoVhcQJg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3x5n4fgmcq"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SeI6KyWUZnyBoQy8bfLAKRBT+LEhBqeXakPWoVhcQJg="
+        }
+      ]
+    },
+    {
+      "Route": "styles.3x5n4fgmcq.css",
+      "AssetFile": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SeI6KyWUZnyBoQy8bfLAKRBT+LEhBqeXakPWoVhcQJg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 14:16:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3x5n4fgmcq"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SeI6KyWUZnyBoQy8bfLAKRBT+LEhBqeXakPWoVhcQJg="
+        }
+      ]
+    },
+    {
+      "Route": "styles.3x5n4fgmcq.css.gz",
+      "AssetFile": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\obj\\Debug\\net9.0\\compressed\\u9uh3mk05x-3x5n4fgmcq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PAglVSJ0jznyIx5yo6c2/raUBguYPq1/TWeqQ4RX830=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 14:16:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3x5n4fgmcq"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PAglVSJ0jznyIx5yo6c2/raUBguYPq1/TWeqQ4RX830="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\obj\\Debug\\net9.0\\compressed\\u9uh3mk05x-3x5n4fgmcq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001302083333"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "767"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PAglVSJ0jznyIx5yo6c2/raUBguYPq1/TWeqQ4RX830=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 14:16:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"SeI6KyWUZnyBoQy8bfLAKRBT+LEhBqeXakPWoVhcQJg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SeI6KyWUZnyBoQy8bfLAKRBT+LEhBqeXakPWoVhcQJg="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2415"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SeI6KyWUZnyBoQy8bfLAKRBT+LEhBqeXakPWoVhcQJg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 14:16:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SeI6KyWUZnyBoQy8bfLAKRBT+LEhBqeXakPWoVhcQJg="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css.gz",
+      "AssetFile": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\obj\\Debug\\net9.0\\compressed\\u9uh3mk05x-3x5n4fgmcq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PAglVSJ0jznyIx5yo6c2/raUBguYPq1/TWeqQ4RX830=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 Jan 2025 14:16:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PAglVSJ0jznyIx5yo6c2/raUBguYPq1/TWeqQ4RX830="
+        }
+      ]
+    },
+    {
+      "Route": "wordgame.5vio3rigod.js",
+      "AssetFile": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\obj\\Debug\\net9.0\\compressed\\jt13bcgfp0-5vio3rigod.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000323939099"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3086"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y5bAgfAnDVn949RTJT+9yPD0ENhp1pd1OtdTHTyCy58=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 09:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fzsz5h02QHuT4y7P51XpYs7H8pT2NKZiLoT4hDskIsY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5vio3rigod"
+        },
+        {
+          "Name": "label",
+          "Value": "wordgame.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fzsz5h02QHuT4y7P51XpYs7H8pT2NKZiLoT4hDskIsY="
+        }
+      ]
+    },
+    {
+      "Route": "wordgame.5vio3rigod.js",
+      "AssetFile": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\wwwroot\\wordgame.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fzsz5h02QHuT4y7P51XpYs7H8pT2NKZiLoT4hDskIsY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 09:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5vio3rigod"
+        },
+        {
+          "Name": "label",
+          "Value": "wordgame.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fzsz5h02QHuT4y7P51XpYs7H8pT2NKZiLoT4hDskIsY="
+        }
+      ]
+    },
+    {
+      "Route": "wordgame.5vio3rigod.js.gz",
+      "AssetFile": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\obj\\Debug\\net9.0\\compressed\\jt13bcgfp0-5vio3rigod.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y5bAgfAnDVn949RTJT+9yPD0ENhp1pd1OtdTHTyCy58=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 09:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5vio3rigod"
+        },
+        {
+          "Name": "label",
+          "Value": "wordgame.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y5bAgfAnDVn949RTJT+9yPD0ENhp1pd1OtdTHTyCy58="
+        }
+      ]
+    },
+    {
+      "Route": "wordgame.js",
+      "AssetFile": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\obj\\Debug\\net9.0\\compressed\\jt13bcgfp0-5vio3rigod.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000323939099"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3086"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y5bAgfAnDVn949RTJT+9yPD0ENhp1pd1OtdTHTyCy58=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 09:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fzsz5h02QHuT4y7P51XpYs7H8pT2NKZiLoT4hDskIsY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fzsz5h02QHuT4y7P51XpYs7H8pT2NKZiLoT4hDskIsY="
+        }
+      ]
+    },
+    {
+      "Route": "wordgame.js",
+      "AssetFile": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\wwwroot\\wordgame.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11151"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fzsz5h02QHuT4y7P51XpYs7H8pT2NKZiLoT4hDskIsY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 09:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fzsz5h02QHuT4y7P51XpYs7H8pT2NKZiLoT4hDskIsY="
+        }
+      ]
+    },
+    {
+      "Route": "wordgame.js.gz",
+      "AssetFile": "C:\\Users\\MaxEk\\source\\repos\\demo-webapplication\\obj\\Debug\\net9.0\\compressed\\jt13bcgfp0-5vio3rigod.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y5bAgfAnDVn949RTJT+9yPD0ENhp1pd1OtdTHTyCy58=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 13 Jan 2025 09:32:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y5bAgfAnDVn949RTJT+9yPD0ENhp1pd1OtdTHTyCy58="
+        }
+      ]
+    }
+  ]
+}
